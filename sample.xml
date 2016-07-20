@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<gender>
+		<type>male</type>
+	</gender>
+	<lastName>Smith</lastName>
+	<address>
+		<streetAddress>21 2nd Street</streetAddress>
+		<state>NY</state>
+		<city>New York</city>
+		<postalCode>10021</postalCode>
+	</address>
+	<phoneNumbers>
+		<phoneNumber>
+			<number>212 555-1234</number>
+			<type>home</type>
+		</phoneNumber>
+		<phoneNumber>
+			<number>646 555-4567</number>
+			<type>fax</type>
+		</phoneNumber>
+	</phoneNumbers>
+	<age>25</age>
+	<firstName>John</firstName>
+</person>
